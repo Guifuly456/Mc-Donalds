@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<title>Mc Donalds</title>
+</head>
+
+<body bgcolor="#FFFF00">
+
+<center>
+<H1><font color="#FF0000" size ="7">Mc Donald´s</H1></Center>
+
+<center><img src="1.png" width="400" height="200">
+</center>
+ 
+<Center>
+<H1><font color="#FF0000" size ="7">Mc Lanche Feliz</H1></Center>
+
+<Center><img src="https://riomarrecife.com.br/recife/2019/06/McLanche-Feliz-Mini-Tasty.png" width="500" height="400"></Center>
+
+
+ 
+<Center>
+<H1><font color="#FF0000" size ="7">Preço 20 conto mais terapia</H1></Center>
+
+<Center><img src="https://i.pinimg.com/originals/b9/8f/70/b98f70ef14c75dfac4d12cd832d25230.gif" width="500" height="400"></Center>
+
+
+</body>
+</html>
